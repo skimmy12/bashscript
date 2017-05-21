@@ -1,3 +1,5 @@
+# READ a file line by line within a specific column
+
 filename=$1
 
 if [[ "$#" -ne 1 ]]; then
